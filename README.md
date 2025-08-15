@@ -14,8 +14,8 @@ https://proxy.gitwarp.com/https://raw.githubusercontent.com/chhb520/chhb520.gith
 http://hk-proxy.gitwarp.com/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
 ```
 ```
-https://raw.gitcode.com/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
+http://jp-proxy.gitwarp.com:3000/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
 ```
 ```
-https://fastly.jsdelivr.net/gh/chhb520/chhb520.github.io@refs/heads/main/IPTV2025.m3u8
+https://proxy.pipers.cn/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
 ```
