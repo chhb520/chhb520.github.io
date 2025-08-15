@@ -8,10 +8,10 @@ https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV
 https://ghproxy.net/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
 ```
 ```
-https://ghproxy.com/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
+https://proxy.gitwarp.com/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
 ```
 ```
-https://raw.gitlink.org.cn/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
+http://hk-proxy.gitwarp.com/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
 ```
 ```
 https://raw.gitcode.com/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
