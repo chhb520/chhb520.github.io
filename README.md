@@ -3,3 +3,15 @@
 ```
 https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
 ```
+## 有时候懂的都懂的环境无法直接访问，我找了几个代理头加进去了，原地址使用不了的情况下，试试下面的
+```
+https://ghproxy.net/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
+
+https://ghproxy.com/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
+
+https://raw.gitlink.org.cn/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
+
+https://raw.gitcode.com/https://raw.githubusercontent.com/chhb520/chhb520.github.io/refs/heads/main/IPTV2025.m3u8
+
+https://fastly.jsdelivr.net/gh/chhb520/chhb520.github.io@refs/heads/main/IPTV2025.m3u8
+```
